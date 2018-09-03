@@ -11,3 +11,4 @@ Steps for DR detection </br>
 
 
 ![Flow Chart](https://github.com/deep-kiran/Capstone/blob/master/Screenshot_20180903-210040-01.jpeg)
+![Snapshot](https://github.com/deep-kiran/Capstone/blob/master/Screenshot_20180903-214711-01.jpeg)
