@@ -11,4 +11,6 @@ Steps for DR detection </br>
 
 
 ![Flow Chart](https://github.com/deep-kiran/Capstone/blob/master/Screenshot_20180903-210040-01.jpeg)
+
+These are the snapshots of prototype. The input taken is a Fundus Image
 ![Snapshot](https://github.com/deep-kiran/Capstone/blob/master/Screenshot_20180903-214711-01.jpeg)
