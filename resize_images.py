@@ -11,7 +11,7 @@ import numpy as np
 def create_directory(directory):
 
     if not os.path.exists(directory):
-        os.makedirs(directory)
+        os.makedirs(directory,exit_ok =True)
 
 
 def crop_and_resize_images(path, new_path, cropx, cropy, img_size=256):
