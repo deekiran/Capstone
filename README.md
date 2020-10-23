@@ -9,6 +9,8 @@ Steps for DR detection </br>
 
 
 
+![Class distribution of output variable](https://github.com/deep-kiran/Capstone/blob/master/output.jpeg)
+
 
 ![Flow Chart](https://github.com/deep-kiran/Capstone/blob/master/Screenshot_20180903-210040-01.jpeg)
 
