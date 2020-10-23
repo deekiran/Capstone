@@ -3,8 +3,8 @@ CNN Model for detecting Glaucoma and Diabetic Retinopathy
 Data set of DR from Kaggle : https://www.kaggle.com/c/diabetic-retinopathy-detection
 
 Steps for DR detection </br>
-1 Resize and crop Images to extract Region Of Interest.</br>
-2 Remove dark and corrupted Images </br>
+1 Remove dark and corrupted Images </br>
+2 Resize and crop Images to extract Region Of Interest.</br>
 3 Rotate DR diagnosed Images at 60,90,120,180 degrees as dataset was biased .To adjust our dataset, we select diagnosed images   </br>
 
 
